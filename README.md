@@ -30,8 +30,6 @@ Waterfall Methodology: This is a linear and sequential approach where each phase
 Agile Methodology: Agile is iterative and incremental, emphasizing flexibility and customer collaboration. It allows for frequent adjustments based on feedback. Agile is ideal for projects with evolving requirements, such as developing a consumer-facing mobile application where user feedback is continually incorporated.
 
 
-
-
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 Software Developer: Responsible for designing, coding, and implementing software applications. They also collaborate with other team members to integrate different system components.
